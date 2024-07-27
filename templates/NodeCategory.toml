@@ -1,0 +1,53 @@
+# %language% translations, courtesy of :
+# %write_your_chosen_name_here%
+
+[main]
+utils = ''
+sampling = ''
+loaders = ''
+conditioning = ''
+latent = ''
+image = ''
+mask = ''
+_for_testing = ''
+advanced = ''
+arithmetic =''
+model_patches = ''
+language_model = ''
+api = ''
+sd=''
+model=''
+
+[common]
+samplers = ''
+schedulers = ''
+sigmas = ''
+guiders = ''
+noise = ''
+video_models =''
+inpaint = ''
+stable_cascade = ''
+sd3 = ''
+batch = ''
+transform = ''
+custom_sampling = ''
+
+[sub_menus]
+style_model = ''
+gligen = 'GLIGEN'
+instructpix2pix = ''
+upscale_diffusion = ''
+3d_models = ''
+upscaling=''
+postprocessing=''
+preprocessors=''
+animation=''
+compositing=''
+attention_experiments= ''
+audio=''
+photomaker=''
+model_merging = ''
+model_specific =''
+cutoff = ''
+openapi =''
+
