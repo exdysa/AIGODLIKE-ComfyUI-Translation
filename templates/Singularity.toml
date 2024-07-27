@@ -1,0 +1,32 @@
+# %language% translations, courtesy of :
+# %write_your_chosen_name_here%
+
+[systems]
+singularity = ''
+classic =''
+
+[controls]
+search = ''
+rename = ''
+copy = ''
+paste = ''
+delete = ''
+colors = ''
+cancel = ''
+confirm = ''
+settings = ''
+client = ''
+title = ''
+queue_prompt = '' # begin processing, & if started add to a queue
+save_load_workflow = '' # where graph layouts are stored
+save = ''
+load = ''
+load_a_workflow_or_drag_and_drop_it_here = '' # a box for adding layouts
+json_files_only = ''
+local_workflows = ''
+clear_graph = '' # remove all items from workflow
+spline = '' # wire with natural wire behavior
+step = '' # wires with 90 degree angle bends
+linear = '' # wires with straight lines, no bends
+recalculate_node_positions = ''
+
