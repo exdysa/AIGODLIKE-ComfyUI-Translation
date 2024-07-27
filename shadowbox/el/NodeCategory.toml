@@ -1,0 +1,53 @@
+# %language% translations, courtesy of :
+# %write_your_chosen_name_here%
+
+[main]
+utils = 'χρήσιμα'
+sampling = 'δειγματοληψία'
+loaders = 'φορτωτές'
+conditioning = 'κλιματισμός'
+latent = 'λανθάνουσα'
+image = 'εικόνα'
+mask = 'μάσκα'
+_for_testing = 'για δοκιμή'
+advanced = 'για προχωρημένους'
+arithmetic = 'αριθμητική'
+model_patches = 'Μοντέλο patches'
+language_model = 'γλωσσικό μοντέλο'
+api = 'API'
+sd = 'SD'
+model= 'μοντέλο'
+	
+[common]	
+samplers = 'δειγματολήπτες'
+schedulers = 'προγραμματιστές'
+sigmas = 'σίγμα'
+guiders = 'οδηγοί'
+noise = 'θόρυβος'
+video_models = 'μοντέλα βίντεο'
+inpaint = 'inpaint'
+stable_cascade = 'σταθερός καταρράκτης'
+sd3 = 'SD3'
+batch = 'παρτίδα'
+transform = 'μετασχηματισμός'
+custom_sampling = 'προσαρμοσμένη δειγματοληψία'
+	
+[sub_menus]	
+style_model = 'μοντέλο στυλ'
+gligen = 'ΓΚΛΊΓΚΕΝ'
+instructpix2pix = 'instructpix2pix'
+upscale_diffusion = 'αναβαθμισμένη διάχυση'
+3d_models = '3D μοντέλα'
+upscaling = 'αναβάθμιση'
+postprocessing = 'μετεπεξεργασία'
+preprocessors = 'προεπεξεργαστές'
+animation = 'κινούμενα σχέδια'
+compositing = 'σύνθεση'
+attention_experiments = 'πειράματα προσοχής'
+audio = 'ήχος'
+photomaker = 'φωτογράφος'
+model_merging = 'συγχώνευση μοντέλων'
+model_specific = 'συγκεκριμένο μοντέλο'
+cutoff = 'αποκοπή'
+openapi = 'openapi'
+

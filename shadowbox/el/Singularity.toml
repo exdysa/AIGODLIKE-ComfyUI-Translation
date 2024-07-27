@@ -1,0 +1,31 @@
+# %language% translations, courtesy of :
+# %write_your_chosen_name_here%
+
+[systems]
+singularity = 'μοναδικότητα'
+classic ='κλασικό'
+	
+[controls]	
+search = 'αναζήτηση'
+rename = 'μετονομασία'
+copy = 'αντίγραφο'
+paste = 'επικόλληση'
+delete = 'διαγραφή'
+colors = 'χρώματα'
+cancel = 'ακύρωση'
+confirm = 'επιβεβαίωση'
+settings = 'ρυθμίσεις'
+client = 'πελάτης'
+title = 'τίτλος'
+queue_prompt = 'Προτροπή ουράς'
+save_load_workflow = 'αποθήκευση ροής εργασίας φόρτωσης'
+save = 'αποθήκευση'
+load = 'φορτίο'
+load_a_workflow_or_drag_and_drop_it_here = 'φορτώστε μια ροή εργασίας ή σύρετε και αποθέστε την εδώ'
+json_files_only = 'JSON αρχεία μόνο'
+local_workflows = 'τοπικές ροές εργασίας'
+clear_graph = 'σαφές γράφημα'
+spline = 'σφήνα'
+step = 'βήμα'
+linear = 'γραμμική'
+recalculate_node_positions = 'Επανυπολογισμός θέσεων κόμβων'
