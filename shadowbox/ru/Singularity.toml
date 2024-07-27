@@ -1,0 +1,31 @@
+# %language% translations, courtesy of :
+# %write_your_chosen_name_here%
+
+[systems]
+singularity = 'Особенность'
+classic ='Классик'
+	
+[controls]	
+search = 'Поиск'
+rename = 'Переименовывать, переименовать'
+copy = 'Копия, рукопись'
+paste = 'Тесто'
+delete = 'Вычёркивать, вычеркнуть'
+colors = 'Цвета'
+cancel = 'Отмена'
+confirm = 'Подтверждать, подтвердить'
+settings = 'Настройки'
+client = 'Клиент'
+title = 'Заглавие'
+queue_prompt = 'Запрос очереди'
+save_load_workflow = 'Сохранить рабочий процесс загрузки'
+save = 'Спасать, спасти'
+load = 'Ноша'
+load_a_workflow_or_drag_and_drop_it_here = 'Загрузите рабочий процесс или перетащите его сюда'
+json_files_only = 'Только файлы json'
+local_workflows = 'Локальные рабочие процессы'
+clear_graph = 'Четкий график'
+spline = 'Сплайн'
+step = 'Шаг'
+linear = 'Линейный'
+recalculate_node_positions = 'Пересчитать позиции узлов'

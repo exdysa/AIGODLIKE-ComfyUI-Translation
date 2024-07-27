@@ -3,7 +3,7 @@
 
 [systems]
 singularity = ''
-classic =''
+classic = ''
 
 [controls]
 search = ''
