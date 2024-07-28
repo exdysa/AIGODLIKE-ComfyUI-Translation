@@ -1,0 +1,53 @@
+# %language% translations, courtesy of :
+# %write_your_chosen_name_here%
+
+[main]
+utils = 'المرافق المساعدة'
+sampling = 'عينة'
+loaders = 'لوادر'
+conditioning = 'تكييف'
+latent = 'كامن'
+image = 'صورة'
+mask = 'قناع'
+_for_testing = 'للاختبارات'
+advanced = 'متقدم'
+arithmetic = 'علم الحساب'
+model_patches = 'بقع النموذج'
+language_model = 'نموذج اللغة'
+api = 'واجهة برمجة التطبيقات'
+sd = 'Sd'
+model= 'نموذج'
+	
+[common]	
+samplers = 'عينات من العينات'
+schedulers = 'المجدولون'
+sigmas = 'سيجماس'
+guiders = 'المرشدون'
+noise = 'ضجيج'
+video_models = 'نماذج الفيديو'
+inpaint = 'إنبينت'
+stable_cascade = 'شلال مستقر'
+sd3 = 'Sd3'
+batch = 'دفعة'
+transform = 'حول'
+custom_sampling = 'أخذ عينات مخصصة'
+	
+[sub_menus]	
+style_model = 'نموذج النمط'
+gligen = 'جليجن'
+instructpix2pix = 'Instructpix2pix'
+upscale_diffusion = 'الانتشار الراقي'
+3d_models = 'نماذج ثلاثية الأبعاد'
+upscaling = 'الارتقاء بالارتقاء'
+postprocessing = 'ما بعد المعالجة'
+preprocessors = 'المعالجات المسبقة'
+animation = 'رسوم متحركة'
+compositing = 'التركيبات'
+attention_experiments = 'تجارب الانتباه'
+audio = 'صوت'
+photomaker = 'صانع الصور'
+model_merging = 'دمج النموذجات'
+model_specific = 'نموذج محدد'
+cutoff = 'قطعت'
+openapi = 'أوبنابي'
+	

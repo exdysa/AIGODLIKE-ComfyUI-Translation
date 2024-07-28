@@ -3,7 +3,7 @@
 
 [systems]
 singularity = 'μοναδικότητα'
-classic ='κλασικό'
+classic = 'κλασικό'
 	
 [controls]	
 search = 'αναζήτηση'

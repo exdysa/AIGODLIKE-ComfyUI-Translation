@@ -1,0 +1,32 @@
+# %language% translations, courtesy of :
+# %write_your_chosen_name_here%
+
+[systems]
+singularity = 'التفرد'
+classic = 'كلاسيكي'
+	
+[controls]	
+search = 'فتش'
+rename = 'أعاد التسمية'
+copy = 'نسخة'
+paste = 'معجون'
+delete = 'حذف'
+colors = 'ألوان'
+cancel = 'ألغى'
+confirm = 'أكد'
+settings = 'الإعدادات'
+client = 'عميل'
+title = 'عنوان'
+queue_prompt = 'موجه قائمة الانتظار'
+save_load_workflow = 'حفظ سير عمل التحميل'
+save = 'أنقذ'
+load = 'شحنة'
+load_a_workflow_or_drag_and_drop_it_here = 'قم بتحميل سير عمل أو اسحبه وأفلته هنا'
+json_files_only = 'ملفات json فقط'
+local_workflows = 'سير العمل المحلي'
+clear_graph = 'رسم بياني واضح'
+spline = 'سبلين'
+step = 'خطوة'
+linear = 'خطي'
+recalculate_node_positions = 'أعد حساب مواضع العقدة'
+
