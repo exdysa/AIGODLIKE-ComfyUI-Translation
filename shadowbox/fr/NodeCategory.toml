@@ -1,0 +1,52 @@
+# %language% translations, courtesy of :
+# %write_your_chosen_name_here%
+
+[main]
+utils = 'Utilitaires'
+sampling = 'Prélèvement'
+loaders = 'Chargeuses'
+conditioning = 'Conditionnement'
+latent = 'Latent'
+image = 'Image'
+mask = 'Masque'
+_for_testing = 'Pour les tests'
+advanced = 'Supérieur'
+arithmetic = 'Arithmétique'
+model_patches = 'Patchs modèles'
+language_model = 'Modèle linguistique'
+api = 'API'
+sd = 'Sd'
+model= 'Maquette'
+	
+[common]	
+samplers = 'Échantillonneurs'
+schedulers = 'Planificateurs'
+sigmas = 'Sigmas'
+guiders = "Guides d' guide"
+noise = 'Bruit'
+video_models = 'Modèles vidéo'
+inpaint = 'Inpaint'
+stable_cascade = 'Cascade stable'
+sd3 = 'Sd3'
+batch = 'Fournée'
+transform = 'Transformer'
+custom_sampling = 'Échantillonnage personnalisé'
+	
+[sub_menus]	
+style_model = 'Modèle de style'
+gligen = 'GLIGEN'
+instructpix2pix = 'Instructpix2pix'
+upscale_diffusion = 'Diffusion haut de gamme'
+3d_models = 'Modèles 3D'
+upscaling = "Mise à l'échelle"
+postprocessing = 'Post-traitement'
+preprocessors = 'Préprocesseurs'
+animation = 'Animation'
+compositing = 'Composition de composition'
+attention_experiments = "Expériences d'attention"
+audio = 'Audio'
+photomaker = 'Photomaker'
+model_merging = 'Fusion de modèles'
+model_specific = 'Spécifique au modèle'
+cutoff = 'Coupure de coupure'
+openapi = 'Ouvertapi'
