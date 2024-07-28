@@ -1,0 +1,31 @@
+# %language% translations, courtesy of :
+# %write_your_chosen_name_here%
+
+[systems]
+singularity = 'Singularidad'
+classic = 'Clásico'
+	
+[controls]	
+search = 'Búsqueda'
+rename = 'Dar un nuevo nombre a'
+copy = 'Réplica'
+paste = 'Pasta'
+delete = 'Suprimir'
+colors = 'Color'
+cancel = 'Cancelar'
+confirm = 'Confirmar'
+settings = 'Ajustes'
+client = 'Cliente'
+title = 'Título'
+queue_prompt = 'Solicitud de cola'
+save_load_workflow = 'Guardar flujo de trabajo de carga'
+save = 'Salvar'
+load = 'Preocupación'
+load_a_workflow_or_drag_and_drop_it_here = 'Cargar un flujo de trabajo o arrastrarlo y soltarlo aquí'
+json_files_only = 'Solo archivos json'
+local_workflows = 'Flujos de trabajo locales'
+clear_graph = 'Gráfico claro'
+spline = 'Tira'
+step = 'Paso'
+linear = 'Lineal'
+recalculate_node_positions = 'Volver a calcular las posiciones de los nodos'

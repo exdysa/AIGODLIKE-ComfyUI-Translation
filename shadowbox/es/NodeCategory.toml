@@ -1,0 +1,54 @@
+# %language% translations, courtesy of :
+# %write_your_chosen_name_here%
+
+[main]
+utils = 'Utils'
+sampling = 'Muestra'
+loaders = 'Cargadoras'
+conditioning = 'Condicionamiento'
+latent = 'Latente'
+image = 'Efigie'
+mask = 'Máscara'
+_for_testing = 'Para pruebas'
+advanced = 'Avanzado'
+arithmetic = 'Aritmética'
+model_patches = 'Parches de modelo'
+language_model = 'Modelo de idioma'
+api = 'IPA'
+sd = 'Sd'
+model= 'Maniquí'
+	
+[common]	
+samplers = 'Muestreadores'
+schedulers = 'Programadores'
+sigmas = 'Sigmas'
+guiders = 'Guiadores'
+noise = 'Ruido'
+video_models = 'Modelos de vídeo'
+inpaint = 'Inpaint'
+stable_cascade = 'Cascada estable'
+sd3 = 'Sd3'
+batch = 'Grupo'
+transform = 'Transformar'
+custom_sampling = 'Muestreo personalizado'
+	
+[sub_menus]	
+style_model = 'Modelo de estilo'
+gligen = 'GLIGEN'
+instructpix2pix = 'Instructpix2pix'
+upscale_diffusion = 'Difusión de lujo'
+3d_models = 'Modelos 3D'
+upscaling = 'Ampliación de la escala'
+postprocessing = 'Postprocesamiento'
+preprocessors = 'Preprocesadores'
+animation = 'Ánimo'
+compositing = 'Composición'
+attention_experiments = 'Experimentos de atención'
+audio = 'Sonido'
+photomaker = 'Fabricante de fotos'
+model_merging = 'Fusión de modelos'
+model_specific = 'Específico del modelo'
+cutoff = 'Punto límite'
+openapi = 'Openapi'
+	
+
