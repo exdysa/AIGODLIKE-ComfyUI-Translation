@@ -2,52 +2,51 @@
 # %write_your_chosen_name_here%
 
 [main]
-utils = 'Utils'
-sampling = 'Prelievo'
-loaders = 'Caricatori'
-conditioning = 'Condizionamento'
-latent = 'Latente'
-image = 'Immagine'
-mask = 'Maschera'
-_for_testing = 'Per i test'
-advanced = 'Di livello avanzato'
-arithmetic = 'Aritmetica'
-model_patches = 'Patch modello'
-language_model = 'Modello linguistico'
-api = "Interfaccia di Programmazione di un'Applicazione"
-sd = 'Sud Dakota'
-model= 'Modello'
-	
-[common]	
-samplers = 'Campionatori'
-schedulers = 'Programmatori'
-sigmas = 'Sigmas'
-guiders = 'Guider'
-noise = 'Rumore'
-video_models = 'Modelli video'
-inpaint = 'Inpaint'
-stable_cascade = 'Cascata stabile.'
-sd3 = 'Sd3'
-batch = 'Infornata'
-transform = 'Trasformata'
-custom_sampling = 'Campionamento personalizzato'
-	
-[sub_menus]	
-style_model = 'Modello di stile'
-gligen = 'GLIGEN'
-instructpix2pix = 'Istruzionipix2pix'
-upscale_diffusion = 'Diffusione di alto livello'
-3d_models = 'Modelli 3d'
-upscaling = 'Upscaling'
-postprocessing = 'Post-elaborazione'
-preprocessors = 'Preprocessori'
-animation = 'Animazione'
-compositing = 'Compositing'
-attention_experiments = 'Esperimenti di attenzione'
-audio = 'Audio'
-photomaker = 'Fotomaker'
-model_merging = 'Fusione del modello'
-model_specific = 'Modello specifico'
-cutoff = 'Taglio del taglio'
-openapi = 'Openapi'
+utils = "utili"
+sampling = "campionamento"
+loaders = "caricatori"
+conditioning = "condizionamento"
+latent = "latente"
+image = "immagine"
+mask = "maschera"
+_for_testing = "per il test"
+advanced = "avanzato"
+arithmetic = "aritmetica"
+model_patches = "patch del modello"
+language_model = "modello linguistico"
+api = "api"
+sd = "sd"
+model= "modello"
 
+[common]
+samplers = "campionatori"
+schedulers = "pianificatori"
+sigmas = "sigma"
+guiders = "guide"
+noise = "rumore"
+video_models = "modelli video"
+inpaint = "inpaint"
+stable_cascade = "cascata stabile"
+sd3 = "sd3"
+batch = "lotto"
+transform = "trasformare"
+custom_sampling = "campionamento personalizzato"
+
+[sub_menus]
+style_model = "modello di stile"
+gligen = "GLIGEN"
+instructpix2pix = "instructpix2pix"
+upscale_diffusion = "diffusione di alto livello"
+3d_models = "Modelli 3d"
+upscaling = "ingrandimento"
+postprocessing = "post-elaborazione"
+preprocessors = "preprocessori"
+animation = "animazione"
+compositing = "composizione"
+attention_experiments = "Esperimenti di attenzione"
+audio = "audio"
+photomaker = "Fotomaker"
+model_merging = "fusione del modello"
+model_specific = "specifico per il modello"
+cutoff = "taglio"
+openapi = "openapi"

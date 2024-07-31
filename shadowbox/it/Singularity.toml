@@ -2,30 +2,30 @@
 # %write_your_chosen_name_here%
 
 [systems]
-singularity = 'Singolarità'
-classic = 'Classico'
-	
-[controls]	
-search = 'Ricerca'
-rename = 'Ribattezzare'
-copy = 'Copia'
-paste = 'Colla'
-delete = 'Cancellare'
-colors = 'Colori'
-cancel = 'Annulla'
-confirm = 'Confermare'
-settings = 'Impostazioni'
-client = 'Cliente'
-title = 'Titolo'
-queue_prompt = 'Prompt della coda'
-save_load_workflow = 'Salva il flusso di lavoro del carico'
-save = 'Salvataggio'
-load = 'Carico'
-load_a_workflow_or_drag_and_drop_it_here = 'Carica un flusso di lavoro o trascinalo qui'
-json_files_only = 'Solo file json'
-local_workflows = 'Flussi di lavoro locali'
-clear_graph = 'Chiaro grafico'
-spline = 'Chiavetta'
-step = 'Passo'
-linear = 'Lineare'
-recalculate_node_positions = 'Ricalcolare le posizioni dei nodi'
+ssingularity = "singolarità"
+classic = "classico"
+
+[controls]
+search = "ricerca"
+rename = "rinomina"
+copy = "copia"
+paste = "incolla"
+delete = "cancellare"
+colors = "colori"
+cancel = "cancella"
+confirm = "confermare"
+settings = "Impostazioni"
+client = "cliente"
+title = "titolo"
+queue_prompt = "prompt coda"
+save_load_workflow = "salva flusso di lavoro di caricamento"
+save = "salva"
+load = "caricare"
+load_a_workflow_or_drag_and_drop_it_here = "carica un flusso di lavoro o trascinalo e rilascialo qui"
+json_files_only = "solo file json"
+local_workflows = "flussi di lavoro locali"
+clear_graph = "Cancella grafico"
+spline = "scanalatura"
+step = "passo"
+linear = "lineare"
+recalculate_node_positions = "ricalcola le posizioni dei nodi"
